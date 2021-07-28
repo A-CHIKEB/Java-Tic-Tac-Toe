@@ -15,7 +15,7 @@ $ git clone https://github.com/achfull/Java-Tic-Tac-Toe.git
 $ cd Java-Tic-Tac-Toe
 ```
 
-#How To Play
+# How To Play
 Once the game starts. You will then have to type the number of the square on which you want to play to place your symbol there.
 ℹ️? = empty
 ```
